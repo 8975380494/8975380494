@@ -17,7 +17,7 @@
 - ✨ Interest in Data Structures and Algorithms & backend and frontend development 
   
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://8975380494.github.io)**
-- 🍂 Speak English, Hindi, Bengali and Khorta
+- 🍂 Speak English, Hindi, Marathi.
 - 🔗 Contact and know about me 👉 **[LinkedIn](https://www.linkedin.com/in/snehal-jadhav-6354841b1/)**
   
 
