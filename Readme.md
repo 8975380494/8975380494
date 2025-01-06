@@ -8,12 +8,12 @@
 
 ---- 
 
-### <div align="center">Aspiring Java Backend Developer 👨‍💻</div>  
+### <div align="center">Java Backend Developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently student at Masai School 
+- 🔭 
   
-- 🌱 I’m currently learning React and SpringBoot 
+- 🌱 
 - ✨ Interest in Data Structures and Algorithms & backend and frontend development 
   
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://8975380494.github.io)**
